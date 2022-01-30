@@ -25,7 +25,7 @@
         * example: `15cf1cdb-a5c7-494c-8593-2cb8f311729f`
 
 * Example of response
-    ```json
+```json
     {
         voter: "HiiZun",
         server: "15cf1cdb-a5c7-494c-8593-2cb8f311729",
@@ -33,4 +33,4 @@
         latestVote: 1643455981456,
         votes: 6
     }
-      ```
+```
